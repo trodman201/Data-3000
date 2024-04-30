@@ -19,5 +19,8 @@
 ## merged_manga.csv 
 ### Csv file that contains 650 rows of scraped manga that have anime and manga without 
 
+#Instructions 
+##Instructions.txt 
+### txt file that contains instructions on how to implement csv files included 
 
 
