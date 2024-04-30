@@ -12,7 +12,7 @@
 ## Fixed_Reviews_Column.ipynb 
 ### Jupyter notebook that contains scraper that gets reviews seperate from AnimeScraper.ipynb
 
-#Data 
+# Data 
 ## manga_reviews.csv 
 ### Csv file that contains around 150 rows of reviews that were scraped seperately 
 
