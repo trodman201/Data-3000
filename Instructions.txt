@@ -1,3 +1,5 @@
-1. Upload merged_manga.csv into env that contains AnimeForestRegression.ipynb 
+1. AnimeScraper.ipynb should be run without any issues, if you encounter an error when scraping data its just a http 405 error. Wait for a while to scrape the data again to circumvent. Otherwise, decrease the amount of data being scraped in the offset line. The same can be said about the Fixed_Reviews_Column.ipynb. 
 
-2. Upload manga_reviews to env that contains AnimeSentimentAnalysis.ipynb  
+2.  Upload merged_manga.csv into env that contains AnimeForestRegression.ipynb. 
+
+3.  Upload manga_reviews to env that contains AnimeSentimentAnalysis.ipynb.   
